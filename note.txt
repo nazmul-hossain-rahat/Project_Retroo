@@ -1,0 +1,31 @@
+<section class="slider">
+     <div id="carouselEx" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-indicators coustom_cid">
+      <button type="button" data-bs-target="#carouselEx" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselEx" data-bs-slide-to="1" aria-label="Slide 2"></button>
+     <button type="button" data-bs-target="#carouselEx" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+   <!--  -->
+  <div class="carousel-inner">
+    <!-- iteam start -->
+    <div class="carousel-item active">
+      <img src="images/banner.jpg" class="d-block w-100" alt="...">
+      <!--slider content -->
+       <div class="row">
+        <div class="col-lg-9">
+           <div class="work_wra">
+          <h2 class="history_2">CLIENTS</h2>
+          <p class="history_3">SOMEBODY ACTUALLY PAY US FOR THESE STUFF.</p>
+        </div>
+        </div>
+       
+      </div>
+      <!--slider content -->
+      
+    </div>
+   
+  </div>
+ 
+</div>
+      
+    </section>
