@@ -1,0 +1,148 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+	/*navber*/
+	.btn_nav {
+    margin: 0 15px;    
+    width: 80px;
+    height: 30px;
+}
+.nav_coustom li a {
+    color: white !important;
+    
+    padding: 0;
+}
+	/*navber*/
+
+	/*history*/
+	.history_2 {
+    margin-top: 50px;
+    font-size: 30px;
+
+}
+
+.history_3 {
+    font-size: 16px !important;
+   
+    margin-bottom: 20px !important;
+}
+	/*history*/
+	
+
+	 /*card section*/
+	 .card_sec {
+     padding:0; 
+    }
+.card_text:hover {
+   
+    transform: scale(1.1) rotate(360deg);
+}
+	 /*card section*/
+	 /*isotope*/
+	 .btn_coustom {
+    margin: 7px 10px;
+    
+    }
+	 /*isotope*/
+	 /*project///////////////////////////////*/
+	 .preject_text h2 {
+    font-size: 30px;
+    
+}
+.preject_text button {
+    padding: 10px 20px;
+    
+}
+	 /**/
+	 /*news letter*/
+	 .btn_news {
+    padding: 10px 40px;
+    margin-top: 15px;
+}
+	 /*news letter*/
+	 /*client*/
+ .client_img img {
+    margin: 0px 5px !important;
+}
+	 /*client*/
+ }
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*nav*/
+	.nav_coustom li a {
+    color: white !important;
+    
+    /* margin: 0; */
+    padding: 0;
+}
+	/*nav*/
+
+	/*client*/
+	 .client_img img {
+    margin: 0px 10px !important;
+}
+	/*client*/
+    
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+	/**/
+	nav ul li {
+    display: inline-block;
+    padding:0 29px;
+ /* justify-content: right; */
+}
+.nav_coustom li a {
+    color: white !important;
+    
+    padding: 0;
+}
+
+.btn_nav {
+    margin: 0 15px;    
+    width: 80px;
+    height: 30px;
+}
+	/**/
+	 }
+
+	 /*neesletter*/
+    .news_wra h3 {
+    font-size: 16px;
+    }
+    .s_from input {
+    width: 90%;
+}
+.btn_news {
+    padding: 10px 40px;
+ 
+}
+/*client*/
+.client_img img {
+    margin: 0px 22px;
+}
+/*client*/
+    /*neesletter*/
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	nav ul li {
+    display: inline-block;
+    padding: 10px 17px;
+  }
+
+/*Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+  }
+
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+
+}
+
+	}
